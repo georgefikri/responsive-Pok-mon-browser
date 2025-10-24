@@ -2,6 +2,8 @@
 
 A responsive Pokémon browser application built with React, TypeScript, and modern web technologies. Browse and explore Pokémon with two different viewing modes: pagination controls and infinite scroll with load more functionality.
 
+[Live Demo](https://pokemon-browser-nine.vercel.app/)
+
 ## Tech Stack
 
 - **React 19** - UI library
@@ -17,6 +19,7 @@ A responsive Pokémon browser application built with React, TypeScript, and mode
 This application demonstrates modern React patterns and best practices:
 
 - **Two List View Variations**:
+
   - Pagination View - Navigate through pages with prev/next and page number controls
   - Infinite Scroll View - Load more Pokémon dynamically with a "Load More" button
 
@@ -64,17 +67,20 @@ src/
 ### Installation & Development
 
 1. **Clone the repository**
+
    ```bash
    git clone <repository-url>
    cd izam-task
    ```
 
 2. **Install dependencies**
+
    ```bash
    npm install
    ```
 
 3. **Start the development server**
+
    ```bash
    npm run dev
    ```
